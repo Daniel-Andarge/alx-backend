@@ -57,7 +57,8 @@ cd 0x01-caching
 - Managing asynchronous operations with Redis
 - Implementing Kue as a queue system
 - Developing a basic Express app interacting with a Redis server
-- Constructing a basic Express app interacting with a Redis server and queue
+- Constructing a basic Express app interacting with a Redis server and queue.
+> [:point_right: Go to project](0x03-queuing_system_in_js)
 
 # :man: Author and Credits
 This project was completed by [SE. Daniel Andarge](https://github.com/Daniel-Andarge). Feel free to get in touch:
