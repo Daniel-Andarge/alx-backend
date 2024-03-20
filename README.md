@@ -61,10 +61,4 @@ cd 0x01-caching
 > [:point_right: Go to project](0x03-queuing_system_in_js)
 
 # :man: Author and Credits
-This project was completed by [SE. Daniel Andarge](https://github.com/Daniel-Andarge). Feel free to get in touch:
-
-:iphone: WhatsApp: [+251982897474](https://wa.me/251982897474)
-
-:email: Email: [andargedaniel90@gmail.com](mailto:andargedaniel90@gmail.com)
-
-:thumbsup: Many thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for providing project requirements.
+This project was completed by [SE. Daniel Andarge](https://github.com/Daniel-Andarge). 
